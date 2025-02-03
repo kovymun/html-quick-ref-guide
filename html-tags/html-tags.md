@@ -10,3 +10,9 @@
 ### Heading Tags
 
 1. `<h1> to <h6>`: Headings (H1 is the largest, H6 the smallest)
+
+### Links & Navigation
+
+1. `<a href="URL">` : Creates hyperlinks
+2. `<nav>` : Semantic HTML to define navigation sections
+3. `target="\_blank"` : anchor tag attribute to open links in a new tab
