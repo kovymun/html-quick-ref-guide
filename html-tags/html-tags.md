@@ -16,3 +16,8 @@
 1. `<a href="URL">` : Creates hyperlinks
 2. `<nav>` : Semantic HTML to define navigation sections
 3. `target="\_blank"` : anchor tag attribute to open links in a new tab
+
+### Media
+
+1. `<video>` : used to embed video content on a web page, allowing users to play, pause, and control video playback directly in the browser
+2. `<audio>` : used to embed audio content on a web page, enabling users to play, pause, and control audio playback directly in the browser
