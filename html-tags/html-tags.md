@@ -21,3 +21,11 @@
 
 1. `<video>` : used to embed video content on a web page, allowing users to play, pause, and control video playback directly in the browser
 2. `<audio>` : used to embed audio content on a web page, enabling users to play, pause, and control audio playback directly in the browser
+
+### Self Closing Tags
+
+Self-closing (or void) tags in HTML do not have closing tags because they do not contain any content. These tags typically serve as standalone elements.
+
+1. `<img />` : Embeds an image to your application. Note: In HTML5, you don’t need to explicitly close self-closing tags (`<img>` is still valid).
+2. `<input />` : Defines an input field in forms.
+3. `<br />` : Inserts a line break
