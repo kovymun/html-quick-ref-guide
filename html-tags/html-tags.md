@@ -29,3 +29,24 @@ Self-closing (or void) tags in HTML do not have closing tags because they do not
 1. `<img />` : Embeds an image to your application. Note: In HTML5, you don’t need to explicitly close self-closing tags (`<img>` is still valid).
 2. `<input />` : Defines an input field in forms.
 3. `<br />` : Inserts a line break
+
+### Semantic HTML Tags
+
+Semantic HTML refers to the use of HTML5 tags that clearly describe the meaning of the content inside them. These tags improve readability, SEO, and accessibility,
+making it easier for browsers, developers, and search engines to understand the structure of a webpage.
+
+#### Common Semantic HTML Tags
+
+1. `<header>` : Defines the introductory content or navigation links at the top of a page or section.
+2. `<nav>` : Represents navigation links within a document.
+3. `<section>` : Groups related content together, typically with a heading.
+4. `<article>` : Contains independent, self-contained content (e.g., blog posts, news articles).
+5. `<aside>` : Represents content that is tangentially related to the main content (e.g., sidebars, ads).
+6. `<main>` : Specifies the main content of the document, excluding headers, footers, and sidebars.
+7. `<footer>` : Contains footer information like copyright, contact details, or links.
+8. `<figure>` : Encapsulates images, diagrams, and illustrations along with captions.
+9. `<figcaption>` : Provides a caption or description for a `<figure>`.
+10. `<mark>` : Highlights text to draw attention (e.g., search results highlighting).
+11. `<time>` : Represents a specific time or date (useful for event timestamps).
+12. `<details>` : Creates a collapsible section with extra information.
+13. `<summary>` : Provides a heading for the `<details>` element (clickable to show/hide content).
