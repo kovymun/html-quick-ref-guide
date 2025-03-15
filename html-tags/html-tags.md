@@ -58,6 +58,6 @@ making it easier for browsers, developers, and search engines to understand the 
 3. `<textarea>`: Defines a multiline text input field (useful for longer user inputs).
 4. `<button>`: Defines a clickable button, often used to submit forms.
 5. `<select>`: Defines a dropdown list for selecting one or more options.
-6. `<option>` : Defines options within a <select> dropdown.
+6. `<option>` : Defines options within a `<select>` dropdown.
 7. `<label>`: Provides a label for form elements, improving accessibility.
-8. `<fieldset>`: Groups related elements in a form, often used with a <legend> to provide a title for the group.
+8. `<fieldset>`: Groups related elements in a form, often used with a `<legend>` to provide a title for the group.
