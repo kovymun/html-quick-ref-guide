@@ -61,3 +61,34 @@ making it easier for browsers, developers, and search engines to understand the 
 6. `<option>` : Defines options within a `<select>` dropdown.
 7. `<label>`: Provides a label for form elements, improving accessibility.
 8. `<fieldset>`: Groups related elements in a form, often used with a `<legend>` to provide a title for the group.
+
+### Important HTML Attributes
+
+1. **id** - Specifies a unique identifier for an element.
+
+   ```html
+   <p id="intro">This is an introduction.</p>
+   ```
+
+2. **class** - Defines one or more class names for styling with CSS or JavaScript.
+
+   ```html
+   <div class="container">Content goes here</div>
+   ```
+
+3. **href** - Specifies the URL for hyperlinks.
+
+   ```html
+   <a href="https://example.com">Visit Example</a>
+   ```
+
+4. **src** - Specifies the source URL for images, videos, and scripts.
+
+   ```html
+   <img src="image.jpg" alt="An example image" />
+   ```
+
+5. **alt** - Provides alternative text for images (useful for accessibility and SEO).
+   ```html
+   <img src="logo.png" alt="Company Logo" />
+   ```
