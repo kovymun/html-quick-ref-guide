@@ -51,6 +51,20 @@ making it easier for browsers, developers, and search engines to understand the 
 12. `<details>` : Creates a collapsible section with extra information.
 13. `<summary>` : Provides a heading for the `<details>` element (clickable to show/hide content).
 
+### Table Elements
+
+Tables are used to display structured data in a tabular format.
+
+1. `<table>` : Defines a table.
+2. `<tr>` : Defines a row in a table.
+3. `<td>` : Defines a cell within a row.
+4. `<th>` : Defines a header cell (bold and centered by default).
+5. `<thead>` : Groups the header content in a table.
+6. `<tbody>` : Groups the body content in a table.
+7. `<tfoot>` : Groups the footer content in a table.
+8. `<colspan>` : Allows a table cell to span multiple columns.
+9. `<rowspan>` : Allows a table cell to span multiple rows.
+
 #### Forms & Input Elements
 
 1. `<form>`: Defines an HTML form used to collect user input.
