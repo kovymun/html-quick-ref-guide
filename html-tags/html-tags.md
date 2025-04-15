@@ -79,30 +79,15 @@ Tables are used to display structured data in a tabular format.
 ### Important HTML Attributes
 
 1. **id** - Specifies a unique identifier for an element.
-
-   ```html
    <p id="intro">This is an introduction.</p>
-   ```
 
 2. **class** - Defines one or more class names for styling with CSS or JavaScript.
-
-   ```html
    <div class="container">Content goes here</div>
-   ```
-
 3. **href** - Specifies the URL for hyperlinks.
-
-   ```html
    <a href="https://example.com">Visit Example</a>
-   ```
 
 4. **src** - Specifies the source URL for images, videos, and scripts.
-
-   ```html
    <img src="image.jpg" alt="An example image" />
-   ```
 
 5. **alt** - Provides alternative text for images (useful for accessibility and SEO).
-   ```html
    <img src="logo.png" alt="Company Logo" />
-   ```
