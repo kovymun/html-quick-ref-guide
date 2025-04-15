@@ -91,3 +91,19 @@ Tables are used to display structured data in a tabular format.
 
 5. **alt** - Provides alternative text for images (useful for accessibility and SEO).
    <img src="logo.png" alt="Company Logo" />
+
+### Lists
+
+Lists are used to group related pieces of content.
+
+`<ul>` – Unordered list (bulleted)
+
+`<ol>` – Ordered list (numbered)
+
+`<li>` – List item (used inside `<ul>` or `<ol>`)
+
+`<dl>` – Description list (for key-value pairs)
+
+`<dt>` – Term in a description list
+
+`<dd>` – Description of the term
