@@ -7,9 +7,13 @@
 4. `<title>`: Sets the page title (appears in the browser tab)
 5. `<body>`: Holds all visible content
 
+---
+
 ### Heading Tags
 
 1. `<h1> to <h6>`: Headings (H1 is the largest, H6 the smallest)
+
+---
 
 ### Links & Navigation
 
@@ -17,10 +21,14 @@
 2. `<nav>` : Semantic HTML to define navigation sections
 3. `target="\_blank"` : anchor tag attribute to open links in a new tab
 
+---
+
 ### Media
 
 1. `<video>` : used to embed video content on a web page, allowing users to play, pause, and control video playback directly in the browser
 2. `<audio>` : used to embed audio content on a web page, enabling users to play, pause, and control audio playback directly in the browser
+
+---
 
 ### Self Closing Tags
 
@@ -30,10 +38,14 @@ Self-closing (or void) tags in HTML do not have closing tags because they do not
 2. `<input />` : Defines an input field in forms.
 3. `<br />` : Inserts a line break
 
+---
+
 ### Semantic HTML Tags
 
 Semantic HTML refers to the use of HTML5 tags that clearly describe the meaning of the content inside them. These tags improve readability, SEO, and accessibility,
 making it easier for browsers, developers, and search engines to understand the structure of a webpage.
+
+---
 
 #### Common Semantic HTML Tags
 
@@ -51,6 +63,8 @@ making it easier for browsers, developers, and search engines to understand the 
 12. `<details>` : Creates a collapsible section with extra information.
 13. `<summary>` : Provides a heading for the `<details>` element (clickable to show/hide content).
 
+---
+
 ### Table Elements
 
 Tables are used to display structured data in a tabular format.
@@ -65,6 +79,8 @@ Tables are used to display structured data in a tabular format.
 8. `<colspan>` : Allows a table cell to span multiple columns.
 9. `<rowspan>` : Allows a table cell to span multiple rows.
 
+---
+
 #### Forms & Input Elements
 
 1. `<form>`: Defines an HTML form used to collect user input.
@@ -75,6 +91,8 @@ Tables are used to display structured data in a tabular format.
 6. `<option>` : Defines options within a `<select>` dropdown.
 7. `<label>`: Provides a label for form elements, improving accessibility.
 8. `<fieldset>`: Groups related elements in a form, often used with a `<legend>` to provide a title for the group.
+
+---
 
 ### Important HTML Attributes
 
@@ -92,6 +110,8 @@ Tables are used to display structured data in a tabular format.
 5. **alt** - Provides alternative text for images (useful for accessibility and SEO).
    <img src="logo.png" alt="Company Logo" />
 
+---
+
 ### Lists
 
 Lists are used to group related pieces of content.
@@ -107,6 +127,8 @@ Lists are used to group related pieces of content.
 `<dt>` – Term in a description list
 
 `<dd>` – Description of the term
+
+---
 
 ### Meta Tags
 
